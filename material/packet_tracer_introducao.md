@@ -88,10 +88,7 @@ Feche a aba `Command Prompt`
 
 * Clique no ícone de carta (Add Simple PDU ) - clique sob o PC-0  e depois sob o PC-1
 
-<video width="600" controls>
-  <source src="imagens/comunicacao_dois_pcs.mp4" type="video/mp4">
-  Seu navegador não suporta vídeo HTML5.
-</video>
+[▶️ Assistir ao vídeo](imagens/comunicacao_dois_pcs.mp4)
 
 ### 4. Modos de Operação
 - **Real Time**: execução contínua

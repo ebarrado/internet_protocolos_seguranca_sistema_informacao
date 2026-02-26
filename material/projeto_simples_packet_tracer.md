@@ -91,10 +91,7 @@ eles NÃO precisam de gateway para se comunicar.
 
 Abra a aba de **Simulation** e envie um PDU de um PC para outro, realizando um teste passo a passo.
 
-<video width="600" controls>
-  <source src="imagens/simulacao_comunicao_pcs_rede.mp4" type="video/mp4">
-  Seu navegador não suporta vídeo HTML5.
-</video>
+[▶️ Assistir ao vídeo](imagens/simulacao_comunicao_pcs_rede.mp4)
 
 Vamos supor:
 
