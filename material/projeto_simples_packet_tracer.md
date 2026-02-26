@@ -12,7 +12,10 @@ A topologia utilizada foi do tipo estrela, onde todos os dispositivos estão con
 
 ## 🖥️ Topologia da Rede
 
-![alt text](imagens/topologia_estrela.png)
+<video src="imagens/simulacao_comunicao_pcs_rede.mp4" controls width="100%">
+  Seu navegador não suporta a tag de vídeo. 
+  <a href="imagens/simulacao_comunicao_pcs_rede.mp4">Clique aqui para baixar o vídeo</a>.
+</video>
 
 ## 🌍 Configuração de Rede
 
