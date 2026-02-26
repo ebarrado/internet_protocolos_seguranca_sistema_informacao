@@ -91,11 +91,11 @@ eles NÃO precisam de gateway para se comunicar.
 
 Abra a aba de **Simulation** e envie um PDU de um PC para outro, realizando um teste passo a passo.
 
-<div align="center" style="position: relative;">
+<div align="center">
   <a href="https://vimeo.com/1168648309" target="_blank">
-    <img src="imagens/video_toplogia_estrela.png" alt="Simulação" width="700">
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 80px;">▶️</div>
+    <img src="imagens/imagens/video_toplogia_estrela.png" alt="Preview da simulação no Packet Tracer" width="700">
   </a>
+  <p><em>⬆️ Clique na imagem para assistir ao vídeo da simulação ⬆️</em></p>
 </div>
 
 Vamos supor:
