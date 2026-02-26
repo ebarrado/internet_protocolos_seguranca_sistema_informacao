@@ -93,7 +93,7 @@ Abra a aba de **Simulation** e envie um PDU de um PC para outro, realizando um t
 
 <div align="center">
   <a href="https://vimeo.com/1168648309" target="_blank">
-    <img src="imagens/imagens/video_toplogia_estrela.png" alt="Preview da simulação no Packet Tracer" width="700">
+    <img src="imagens/video_toplogia_estrela.png" alt="Preview da simulação no Packet Tracer" width="700">
   </a>
   <p><em>⬆️ Clique na imagem para assistir ao vídeo da simulação ⬆️</em></p>
 </div>
