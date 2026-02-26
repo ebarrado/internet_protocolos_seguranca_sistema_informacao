@@ -88,7 +88,12 @@ Feche a aba `Command Prompt`
 
 * Clique no ícone de carta (Add Simple PDU ) - clique sob o PC-0  e depois sob o PC-1
 
-[▶️ Assistir ao vídeo](imagens/comunicacao_dois_pcs.mp4)
+<div align="center">
+  <a href="https://vimeo.com/1168653323?share=copy&fl=sv&fe=ci" target="_blank">
+    <img src="imagens/thumbnail_video_comunicacao.png" alt="Preview da simulação no Packet Tracer" width="700">
+  </a>
+  <p><em>⬆️ Clique na imagem para assistir ao vídeo da simulação ⬆️</em></p>
+</div>
 
 ### 4. Modos de Operação
 - **Real Time**: execução contínua
