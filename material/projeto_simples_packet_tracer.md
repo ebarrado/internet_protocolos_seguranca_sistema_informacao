@@ -92,7 +92,7 @@ eles NÃO precisam de gateway para se comunicar.
 Abra a aba de **Simulation** e envie um PDU de um PC para outro, realizando um teste passo a passo.
 
 <a href="https://vimeo.com/1168648309" target="_blank">
-  <img src="imagens/imagens/topologia_estrela.png" alt="Simulação da comunicação entre PCs" width="600">
+  <img src="imagens/topologia_estrela.png" alt="Simulação da comunicação entre PCs" width="600">
 </a>
 
 
