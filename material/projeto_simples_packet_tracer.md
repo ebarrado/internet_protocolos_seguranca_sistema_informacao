@@ -80,7 +80,7 @@ A comunicação foi testada utilizando o comando:
 ping endereco_ip
 ```
 
-> No nosso caso não adicionamos o endereço do Gateway nos PC e ao realizar os teste todos os PCs se comunicaram **devido a estar na mesma rede**
+> No nosso caso não adicionamos o endereço do Gateway nos PC e ao realizar os teste, todos os PCs se comunicaram, ** isso acontece todos os PCs estão na mesma rede**
 
 ### 🔎 Regra fundamental de redes:
 
