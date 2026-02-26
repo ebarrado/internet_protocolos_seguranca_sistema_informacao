@@ -94,6 +94,7 @@ Abra a aba de **Simulation** e envie um PDU de um PC para outro, realizando um t
 <div align="center">
   <a href="https://vimeo.com/1168648309" target="_blank">
     <img src="imagens/video_toplogia_estrela.png" alt="Preview da simulação no Packet Tracer" width="700">
+     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 80px;">▶️</div>
   </a>
   <p><em>⬆️ Clique na imagem para assistir ao vídeo da simulação ⬆️</em></p>
 </div>
