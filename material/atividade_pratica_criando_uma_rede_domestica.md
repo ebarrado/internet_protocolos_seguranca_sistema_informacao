@@ -51,6 +51,7 @@ Configure o roteador com as seguintes especificações:
 🔹 Wireless
 
 |Configuração |	Valor |
+|---------|-------|
 |SSID |	Rede_Aula |
 |Segurança	| WPA2 Personal  |
 |Senha | Aula12345 |
