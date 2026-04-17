@@ -1,0 +1,80 @@
+/8 bits no ultimo octeto
+2^8 = 256 endereços
+1 rede
+1 broadcast
+
+=254 endereços para hosts
+192.168.1.0 - Rede
+192.168.1.1 - 1 host
+192.168.1.254- ultimo host
+192.168.1.255 - broadcast
+
+Para Configuração do Router G0/0
+
+200.198.1.11 / 30 (Preciso descobrir o endereço de Rede ao qual o endereço 200.198.1.11 pertence)
+
+/30 (255.255.255.252)
+
+2^2 -= 2x2 = 4
+4 endereços de rede
+2 host (dois equipamentos)
+
+representação binária - 255.255.255.252
+11111111.11111111.11111111.11111100
+
+Representação binário do endereço:
+- 200.198.2.11: 11001000.11000110.00000010.00001011
+
+SOMA de BINÁRIO para descobri o endereço de rede
+
+11001000.11000110.00000010.00001011 endereço
+11111111.11111111.11111111.11111100 mascara
+____________________________________
+11001000.11000110.00000010.00001000 rede
+
+200.198.2.8 - Endereço Rede
+200.198.2.9 - 1 Host
+200.198.2.10- Ultimo Host
+200.198.2.11- Broadcast
+
+200.198.2.12 - Endereço Rede
+200.198.2.13 - 1 Host
+200.198.2.14- Ultimo Host
+200.198.2.15- Broadcast
+
+200.198.2.16 - Endereço Rede
+200.198.2.17 - 1 Host
+200.198.2.18- Ultimo Host
+200.198.2.19- Broadcast
+
+200.198.2.20 - Endereço Rede
+200.198.2.21- 1 Host
+200.198.2.22- Ultimo Host
+200.198.2.23- Broadcast
+
+200.198.2.24 - Endereço Rede
+200.198.2.25 - 1 Host
+200.198.2.26- Ultimo Host
+200.198.2.27- Broadcast
+
+200.198.2.28 - Endereço Rede
+200.198.2.29 - 1 Host
+200.198.2.30- Ultimo Host
+200.198.2.31- Broadcast
+
+
+--- CONFIGURAÇÃO R1 ---
+
+R1>enable
+R1#configure terminal
+R1(config)#interface gigabitEthernet 0/0
+R1(config-if)#ip address 200.198.2.9 255.255.255.252
+R1(config-if)#no shutdown 
+
+--- CONFIGURAÇÃO R2 --- 
+Router>en
+Router#conf t
+Router(config)#interface gigabitEthernet 0/0
+Router(config-if)#ip address 200.198.2.10 255.255.255.252
+Router(config-if)#no sh
+
